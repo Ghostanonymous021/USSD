@@ -1,0 +1,12 @@
+{
+  "name": "safewithdraw-ussd",
+  "version": "1.0.0",
+  "description": "SafeWithdraw USSD + SMS Simulator for Africa's Talking",
+  "main": "api/ussd.js",
+  "scripts": {
+    "dev": "node api/ussd.js"
+  },
+  "dependencies": {
+    "africastalking": "^0.7.3"
+  }
+}
